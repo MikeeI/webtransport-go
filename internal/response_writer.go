@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/lucas-clemente/quic-go"
+	"github.com/MikeeI/quic-go"
 	"github.com/marten-seemann/qpack"
 )
 

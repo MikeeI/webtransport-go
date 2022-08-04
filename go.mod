@@ -1,4 +1,4 @@
-module github.com/adriancable/webtransport-go
+module github.com/MikeeI/webtransport-go
 
 go 1.17
 

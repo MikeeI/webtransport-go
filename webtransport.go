@@ -73,10 +73,10 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/MikeeI/webtransport-go/internal"
-	"github.com/MikeeI/quic-go"
-	"github.com/MikeeI/quic-go/http3"
-	"github.com/MikeeI/quic-go/quicvarint"
+	"github.com/lucas-clemente/webtransport-go/internal"
+	"github.com/lucas-clemente/quic-go"
+	"github.com/lucas-clemente/quic-go/http3"
+	"github.com/lucas-clemente/quic-go/quicvarint"
 	"github.com/marten-seemann/qpack"
 )
 

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/MikeeI/quic-go/quicvarint"
+	"github.com/lucas-clemente/quic-go/quicvarint"
 )
 
 // Frame types

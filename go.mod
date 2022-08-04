@@ -3,7 +3,6 @@ module github.com/MikeeI/webtransport-go
 go 1.17
 
 require (
-	github.com/adriancable/webtransport-go v0.1.0
 	github.com/lucas-clemente/quic-go v0.25.0
 	github.com/marten-seemann/qpack v0.2.1
 )

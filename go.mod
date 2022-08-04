@@ -26,4 +26,4 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 )
 
-replace github.com/lucas-clemente/quic-go => github.com/MikeeI/quic-go@v0.0.0-20220804221420-ce0c32f214795be3272de12e24190758bb9eaafe
+replace github.com/lucas-clemente/quic-go => github.com/MikeeI/quic-go v0.0.0-20220804221420-ce0c32f214795be3272de12e24190758bb9eaafe

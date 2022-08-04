@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/MikeeI/quic-go/quicvarint"
+	"github.com/lucas-clemente/quic-go/quicvarint"
 )
 
 // Stream types

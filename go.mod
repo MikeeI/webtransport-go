@@ -27,3 +27,4 @@ require (
 )
 
 replace github.com/lucas-clemente/quic-go => github.com/MikeeI/quic-go v0.0.0-20220804223806-ce0c32f21479
+exclude github.com/lucas-clemente/quic-go
